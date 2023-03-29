@@ -1,1 +1,1 @@
-# Analisis_estadistico_de_datos
+# Análisis estadístico de datos
